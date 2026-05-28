@@ -66,6 +66,5 @@
 
 # OUTPUT
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/622aaa8c-f521-438d-b131-fb61e861be6e" />
-
 # RESULT
 Design-of-FIR-Filters-using-hanning-window using SCILAB executed successfully.
